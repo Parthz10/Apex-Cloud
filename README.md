@@ -1,4 +1,4 @@
-# Apex Cloud Modernization
+ Apex Cloud Modernization
 
 This repository contains the infrastructure-as-code and containerization files for migrating and modernizing the Apex Cloud application to a cloud-native architecture on Google Cloud Platform (GCP).
 
